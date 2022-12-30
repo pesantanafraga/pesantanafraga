@@ -22,6 +22,7 @@
     
   <img src="https://camo.githubusercontent.com/dd433625a6e00049c26f08143705ff9e32d5da44f503f1be133664b11e37e34b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432532332d3233393132303f7374796c653d666f722d7468652d6261646765266c6f676f3d632d7368617270266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&amp;logo=c-sharp&amp;logoColor=white" style="max-width: 100%;">
   
+   <img src="https://camo.githubusercontent.com/958cbcd934c81fa337c3f2503db0abd4d8a3d7047cccec99c8fe7dd06c7861c7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f576f726450726573732d3030364539333f7374796c653d666f722d7468652d6261646765266c6f676f3d776f72647072657373266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/WordPress-006E93?style=for-the-badge&amp;logo=wordpress&amp;logoColor=white" style="max-width: 100%;">
   
   <img src="https://camo.githubusercontent.com/70dbe28cb6d7fac724dc342f866d2bc2d78f589828ec4d3702ae0b0a6ec39f05/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4669676d612d4632344531453f6c6f676f436f6c6f723d666666267374796c653d666f722d7468652d6261646765266c6f676f3d6669676d61" alt="Figma" data-canonical-src="https://img.shields.io/badge/Figma-F24E1E?logoColor=fff&amp;style=for-the-badge&amp;logo=figma" style="max-width: 100%;">
   
