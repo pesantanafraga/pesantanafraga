@@ -59,9 +59,8 @@
   
   ##
 
-- 💻 Projetos com HTML, CSS, JS, BOOTSTRAP, ASP.NET, C# & SQL;
+- 💻 Projetos com HTML, CSS, JS, NODE.JS, REACT, VUE.JS, BOOTSTRAP, ASP.NET, C# & SQL;
 - 🔭 Atualmente trabalhando como auxiliar técnico de TI;
-- 🌱 Front-end é bom, Full-stack é melhor ainda!;
 - 👯 Procurando parceiros e mentores para projetos;
 - 💬 Dedicado e esforçado;
 - 📫 Quanto maior o conhecimento, melhor o projeto e o desenvolvimento né?;
